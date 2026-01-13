@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../MovieRecommenderGrpcService/MovieRecommenderGrpcService.csproj" />
+  <Project Path="Asandului_Oana_Maria_Lab8.csproj" />
+</Solution>
